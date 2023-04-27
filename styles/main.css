@@ -9,7 +9,7 @@ img, header, main, footer {
     max-width: 760px;
 }
 
-header {
+header, img{
     background-color: cornflowerblue;
     color: #fff;
 }
