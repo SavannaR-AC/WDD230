@@ -16,4 +16,10 @@ header, img{
 img {
     max-width: 150px;
     max-height: auto;
+    margin: 1.5rem;
+}
+
+footer {
+    background-color: cornflowerblue;
+    color: #fff;
 }
