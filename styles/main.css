@@ -13,3 +13,7 @@ header {
     background-color: cornflowerblue;
     color: #fff;
 }
+img {
+    max-width: 150px;
+    max-height: auto;
+}
