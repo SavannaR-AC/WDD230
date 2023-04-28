@@ -1,7 +1,8 @@
-body {
+body, html {
     font-size: 18px;
     line-height: 1.5;
     font-family: 'Open Sans', sans-serif;
+    padding: 1.5rem;
 }
 
 img, header, main, footer {
