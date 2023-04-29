@@ -2,7 +2,6 @@ body, html {
     font-size: 18px;
     line-height: 1.5;
     font-family: 'Open Sans', sans-serif;
-    padding: 1.5rem;
 }
 
 img, header, main, footer {
@@ -13,6 +12,7 @@ img, header, main, footer {
 header, img{
     background-color: cornflowerblue;
     color: #fff;
+    padding: 1.5rem;
 }
 img {
     max-width: 150px;
