@@ -4,7 +4,6 @@ body, html {
     font-family: 'Open Sans', sans-serif;
     display: grid;
     grid-template-rows: auto auto auto;
-    grid-template-columns: auto auto auto;
 }
 
 img, header, main, footer {
@@ -16,6 +15,7 @@ header, img{
     background-color: cornflowerblue;
     color: #fff;
     padding: 15px;
+    align-items: center;
 }
 img {
     max-width: 150px;
