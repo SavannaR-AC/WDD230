@@ -11,22 +11,25 @@ img, header, main, footer {
     max-width: 760px;
 }
 
-header, img{
+main {
+    align-items:left;
+}
+
+header {
     background-color: cornflowerblue;
     color: #fff;
     padding: 15px;
-    align-items: center;
+    display: flex;
 }
 img {
     max-width: 150px;
     max-height: auto;
     margin: 1.5rem;
-    grid: center;
+    align-items: center;
 }
 
 footer {
     background-color: cornflowerblue;
     color: #fff;
     padding: 15px;
-
 }
