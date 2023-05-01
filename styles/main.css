@@ -21,10 +21,14 @@ header {
     padding: 15px;
     display: flex;
 }
+
+h1 {
+    text-align:center;
+}
 img {
     max-width: 150px;
     max-height: auto;
-    margin: 1.5rem;
+    margin: 1 rem;
     align-items: center;
 }
 
@@ -32,4 +36,6 @@ footer {
     background-color: cornflowerblue;
     color: #fff;
     padding: 15px;
+    display: flex;
+    text-align: center;
 }
