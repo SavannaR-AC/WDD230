@@ -20,6 +20,7 @@ header {
     color: #fff;
     padding: 15px;
     display: flex;
+    border-radius: 0cap;
 }
 
 h1 {
